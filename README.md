@@ -26,6 +26,9 @@ Triplet : [A, B, C]
 Second élément de tInt : 2
 
  ```
+ ## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="385" height="208" alt="image" src="https://github.com/user-attachments/assets/0a9bf3d1-b939-4233-9d22-0f96b3a1f94b" />
 
@@ -43,6 +46,9 @@ TripletH : [42, Answer, 3.14]
 TripletH : [Alice, 30, true]
 
  ```
+## Exemple d’exécution (image)
+
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="458" height="108" alt="image" src="https://github.com/user-attachments/assets/19a6cceb-b5fd-4981-b179-d8311776af93" />
 
