@@ -14,9 +14,9 @@ Ce TP a pour but de maîtriser la **généricité en Java**, un concept permetta
 
 ##  Structure du projet
  ```
-TP11
+src
 │
-├── src/ma/projet
+├── ma/projet
   │
   ├── Exercice1
   │   ├── Triplet.java           
