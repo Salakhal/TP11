@@ -13,6 +13,21 @@ Ce TP a pour but de maîtriser la **généricité en Java**, un concept permetta
 ---
 
 ##  Structure du projet
+ ```
+TP11
+│
+├── src/ma/projet
+  │
+  ├── Exercice1
+  │   ├── Triplet.java           
+  │   └── TestTriplet.java       
+  │
+  ├── Exercice2
+  │   ├── TripletH.java          
+  │   └── TestTripletH.java     
+  │
+  └── README.md 
+ ```
 
 ##  Exercice 1 : Triplet homogène
 
